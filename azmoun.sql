@@ -99,3 +99,4 @@ values (1,'Ken',null,null),
 (24,'Antoan','David',6),
 (25,'Eddie','Mark',4);
 select id,name,manager, managerid from chart order by managerid asc;
+sadly i couldnt understand the meaning of question 6
